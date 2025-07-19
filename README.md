@@ -27,7 +27,4 @@ I'm a passionate full-stack developer with experience building scalable web appl
 - 📧 Email: your.ramsavant1999@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/ram-savant](https://linkedin.com/in/ram-savant)
 
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
