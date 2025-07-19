@@ -24,7 +24,7 @@ I'm a passionate full-stack developer with experience building scalable web appl
 
 ## 📫 Let's Connect
 
-- 📧 Email: your.ramsavant1999@gmail.com
+- 📧 Email: ramsavant1999@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/ram-savant](https://linkedin.com/in/ram-savant)
 
 
